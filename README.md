@@ -1,6 +1,6 @@
 # Algorithmic-Stablecoin
 
-This smart contract can simulate Luna collapse
+Smart contract which can simulate Luna collapse
 or how algorithmic stablecoins work.
 
 The (open source) contract is deployed here:
